@@ -1,0 +1,21 @@
+@media only screen and (max-width: 782px) {
+  html {
+    font-size: 50%;
+  }
+}
+
+@media only screen and (max-width: 598px) {
+  html {
+    font-size: 45%;
+  }
+
+  .date-paragraph {
+    display: none;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  html {
+    font-size: 40%;
+  }
+} ;
